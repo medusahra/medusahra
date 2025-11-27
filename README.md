@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+fil%C3%B3sofa+%7C+poeta+%7C+hacker;%F0%9F%92%80+seguridad+ofensiva;%F0%9F%8C%8D+un+glitch+rosa+en+el+mapa" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/🏴‍☠️_Website-medusahra.github.io-ff1493?style=for-the-badge)](https://medusahra.github.io)
-[![Proton](https://img.shields.io/badge/📧_Contacto-ProtonMail-8a2be2?style=for-the-badge&logo=proton&logoColor=white)](mailto:blackobjkt@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8a2be2?style=for-the-badge&logo=proton&logoColor=white)](mailto:blackobjkt@protonmail.com)
 
 
 </div>
