@@ -64,9 +64,13 @@ const medusahra = {
 
 ### 🏴‍☠️ Hacking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Security](https://img.shields.io/badge/Offensive_Security-ff1493?style=for-the-badge&logo=hackaday&logoColor=white)
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-ff1493?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-00D9FF?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Exploit Development](https://img.shields.io/badge/Exploit_Dev-8a2be2?style=for-the-badge&logo=gnu&logoColor=white)
+
+</div>
+
 
 ### 💻 Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
