@@ -54,3 +54,120 @@ const medusahra = {
   sistema: "Debian Trixie + Konsole",
   editor: "código como poesía"
 }
+🔓 Áreas de Expertise
+<div align="center">
+🏴‍☠️ Hacking & Seguridad
+
+
+
+
+
+
+
+
+💻 Desarrollo
+
+
+
+
+
+
+
+
+
+
+🎨 Arte & Algoritmos
+
+
+
+
+
+
+🖤 Filosofía & Escritura
+
+
+
+
+
+
+</div>
+🪶 Proyectos: Código como Poesía
+<div align="center"> <a href="https://github.com/medusahra/generador-poetico"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medusahra&repo=generador-poetico&theme=radical&border_color=ff1493&title_color=ff1493&icon_color=ff1493&description_lines_count=3" /> </a> <a href="https://github.com/medusahra/encriptador-glitch"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=medusahra&repo=encriptador-glitch&theme=radical&border_color=ff1493&title_color=ff1493&icon_color=ff1493&description_lines_count=3" /> </a> </div>
+💀 Filosofía del Código
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "he levantado mi propio templo de código y deseo:          │
+│   un glitch rosa en el mapa."                               │
+│                                                             │
+│  En mis proyectos convergen:                                │
+│                                                             │
+│  • Seguridad ofensiva → como lectura de fisuras            │
+│  • Poesía algorítmica → como escritura generativa          │
+│  • Filosofía crítica → como hackeo conceptual              │
+│  • Estética cyberpunk → como política del glitch           │
+│                                                             │
+│  Todo sistema tiene grietas.                               │
+│  A esas grietas me asomo. ♡                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medusahra&show_icons=true&theme=radical&border_color=ff1493&title_color=ff1493&icon_color=ff1493&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medusahra&layout=compact&theme=radical&border_color=ff1493&title_color=ff1493&text_color=ffffff&bg_color=0d1117&langs_count=8"/>
+
+</div>
+🐍 Contribution Snake
+<div align="center">
+
+</div>
+🌐 Constelación de Intereses
+            🔐 cryptography
+                 │
+                 │
+    📚 filosofía ┼─────────── 💻 hacking
+                 │
+                 │
+           🪶 poesía
+                 │
+                 │
+    🎨 glitch art ┼─────────── 💀 crítica cultural
+                 │
+                 │
+         🏴‍☠️ pentesting
+
+🖤 Últimas Reflexiones
+
+🪶 Escribo sobre fisuras sistémicas y deseo
+
+💀 Exploro la intersección entre código y cuerpo
+
+🏴‍☠️ Practico seguridad ofensiva como filosofía
+
+✨ Creo poesía generativa con algoritmos de Markov
+
+📫 Contacto
+<div align="center">
+
+
+
+
+
+
+</div>
+<div align="center">
+[ transmisión desde Bogotá, Colombia 🇨🇴🇱🇧 ]
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║  "todo tiene fisuras: sistemas, cuerpos               ║
+║   e infraestructuras del deseo,                       ║
+║   a esas grietas me asomo. ♡"                         ║
+║                                                       ║
+║  — Giovanna Chadid                                   ║
+║    filósofa · poeta · hacker                         ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+
+
+fine & dandy honeypot 🍯
+
+</div> ```
+
