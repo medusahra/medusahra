@@ -40,6 +40,7 @@ const medusahra = {
         "ensayo",
         "crítica cultural",
         "poemas quasi-ensayísticos vagamente lujuriosos"
+        "código"
     ],
     
     manifesto: "𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪",
