@@ -2,30 +2,38 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # se ejecuta todos los días a medianoche
+    - cron: "0 0 * * *"   # corre cada día a medianoche UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # necesario para hacer commit
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake (dark + light)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: medusahra
           outputs: |
-            ./output/github-contribution-grid-snake.svg
-            ./output/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
 
-      - name: Commit files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Generate Snake Animation"
-          file_pattern: output/*
+      - name: Commit generated files
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "update snake animation" || echo "No changes to commit"
 
       - name: Push changes
-        run: git push
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
