@@ -19,12 +19,12 @@
 
 ---
 
-## 🏴☠️ Giovanna Chadid
+## 🏴‍☠️ medusahra
 
 > **"todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡"**
 ```javascript
 const medusahra = {
-    nombre: "Giovanna Chadid",
+    nombre: "Gigi Chadid",
     identidad: "colombo-lebanese 🇨🇴🇱🇧",
     ubicación: "Bogotá, Colombia",
     
@@ -42,17 +42,16 @@ const medusahra = {
         "poemas quasi-ensayísticos vagamente lujuriosos"
     ],
     
-    manifesto: "un glitch rosa en el mapa",
+    manifesto: "𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪",
     honeypot: "fine & dandy",
     
     obsesiones: {
-        técnicas: ["pentesting", "offensive security", "crypto"],
+        técnicas: ["pentesting", "offensive security", "hacking"],
         filosóficas: ["fisuras sistémicas", "infraestructuras del deseo", "cuerpo & código"],
         estéticas: ["cyberpunk", "glitch", "neón"]
     },
     
-    sistema: "Debian Trixie + Konsole",
-    editor: "código como poesía"
+    sistema: "Debian Trixie",
 }
 ```
 
@@ -62,20 +61,23 @@ const medusahra = {
 
 <div align="center">
 
-### 🏴‍☠️ Hacking & Seguridad
+### 🏴‍☠️ Hacking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Offensive_Security-ff1493?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-00D9FF?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-### 💻 Desarrollo
+### 💻 Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🎨 Arte & Algoritmos
+
+### 🎨 Arte
 ![Generative Art](https://img.shields.io/badge/Arte_Generativo-8B00FF?style=for-the-badge&logo=processing&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poesía_Algorítmica-FF1493?style=for-the-badge&logo=poetry&logoColor=white)
 ![Markov Chains](https://img.shields.io/badge/Markov_Chains-00FFFF?style=for-the-badge&logo=chain&logoColor=black)
@@ -89,7 +91,7 @@ const medusahra = {
 
 ---
 
-## 🪶 Proyectos: Código como Poesía
+## 🪶 Projects
 
 <div align="center">
 
@@ -178,7 +180,7 @@ const medusahra = {
 - 🪶 Escribo sobre fisuras sistémicas y deseo
 - 💀 Exploro la intersección entre código y cuerpo
 - 🏴‍☠️ Practico seguridad ofensiva como filosofía
-- ✨ Creo poesía generativa con algoritmos de Markov
+- ✨ Creo poesía y código
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -197,7 +199,7 @@ const medusahra = {
 
 <div align="center">
 
-### `[ transmisión desde Bogotá, Colombia 🇨🇴🇱🇧 ]`
+### `[ transmission]`
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║                                                       ║
@@ -205,8 +207,8 @@ const medusahra = {
 ║   e infraestructuras del deseo,                      ║
 ║   a esas grietas me asomo. ♡"                        ║
 ║                                                       ║
-║  — Giovanna Chadid                                   ║
-║    filósofa · poeta · hacker                         ║
+║  — Gigi Chadid                                   ║
+║    filósofa · poeta · offsec hacker                         ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
