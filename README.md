@@ -147,7 +147,6 @@ const medusahra = {
 ![Snake animation](https://raw.githubusercontent.com/medusahra/medusahra/output/github-contribution-grid-snake.svg)
 
 
-
 </div>
 
 ---
