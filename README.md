@@ -33,7 +33,7 @@ Bogotá 🇨🇴 → Beirut 🇱🇧
 ## STACK
 
 ```
-Languages:  Python | Ruby | Bash | JavaScript | Rust | C
+Languages:  Python | Ruby | Bash | JavaScript | Rust | C++
 Tools:      Metasploit | Burp Suite | Ghidra | Wireshark
 Systems:    Debian Trixie | Kali Linux
 ```
