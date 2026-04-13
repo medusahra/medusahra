@@ -16,9 +16,9 @@
 
 # MEDUSAHRA
 
-Offensive security researcher. Philosopher. Writer.
+Hacker and exploit dev. Philosopher. Poet.
 
-Bogotá 🇨🇴 → Beirut 🇱🇧
+Colombo Lebanese
 
 ---
 
@@ -35,7 +35,7 @@ Bogotá 🇨🇴 → Beirut 🇱🇧
 ```
 Languages:  Python | Ruby | Bash | JavaScript | Rust | C++
 Tools:      Metasploit | Burp Suite | Ghidra | Wireshark
-Systems:    Debian Trixie | Kali Linux
+Systems:    Debian Trixie | Gentoo | NixOS
 ```
 
 ---
